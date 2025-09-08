@@ -13,7 +13,6 @@ using namespace std;
 //     cout <<"Value of integer is: "<<charName<<". Size of it is "<< sizeof(charName)<<endl;
 // }
 
-
 //problem 2
 // int main() {
 //     string name = "Abduraxmon Abduazizov";
@@ -27,7 +26,6 @@ using namespace std;
 //
 // }
 
-
 //problem 3
 // int main() {
 //     string poem = "\"I'm standing\" on the edge of some crazy cliff.\n"
@@ -38,7 +36,6 @@ using namespace std;
 //                   "from somewhere and \t catch them.";
 //     cout << poem << endl;
 // }
-
 
 // problem 4
 // int main() {
@@ -51,13 +48,12 @@ using namespace std;
 //     cout<<floatNumber<<"\t"<<decimalValue<<"\t"<<floatNumber2<<"\t"<<c<<endl;
 // }
 
-
 // problem 5
-int main() {
-    int a, b;
-    cin >> a >> b;
-    int sum = a + b;
-    int product = a * b;
-    cout <<"Sum = "<<sum<< endl;
-    cout <<"Product = "<<product<< endl;
-}
+// int main() {
+//     int a, b;
+//     cin >> a >> b;
+//     int sum = a + b;
+//     int product = a * b;
+//     cout <<"Sum = "<<sum<< endl;
+//     cout <<"Product = "<<product<< endl;
+// }
