@@ -49,11 +49,11 @@ using namespace std;
 // }
 
 // problem 5
-// int main() {
-//     int a, b;
-//     cin >> a >> b;
-//     int sum = a + b;
-//     int product = a * b;
-//     cout <<"Sum = "<<sum<< endl;
-//     cout <<"Product = "<<product<< endl;
-// }
+int main() {
+    int a, b;
+    cin >> a >> b;
+    int sum = a + b;
+    int product = a * b;
+    cout <<"Sum = "<<sum<< endl;
+    cout <<"Product = "<<product<< endl;
+}
